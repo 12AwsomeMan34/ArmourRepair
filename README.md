@@ -1,4 +1,4 @@
-XtraPunish
+ArmourRepair
 ==========
 
 ArmourRepair is a plugin that allows a player to repair their armour.
